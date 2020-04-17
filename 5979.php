@@ -491,7 +491,7 @@ if($text == "/stat"){
 👤 A'zolar: *$lich*
 👥 Guruhlar: *$gr*
 📣 Umumiy: *$jami*
-👨🏻‍💻Admin [@Alhamdulillah_66](https://t.me/v_a_q_t)
+👨🏻‍💻Admin [Admin](https://t.me/v_a_q_t)
 
 $bugun $soat",
         'parse_mode'=>'markdown',
