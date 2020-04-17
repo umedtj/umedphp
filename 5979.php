@@ -1,7 +1,7 @@
 <?php
 ob_start();
 define('API_KEY','1231204543:AAGxYsqV-byLkNVnQNlK7lc4iAFkaDVUHHc');
-$admin = "Admin Id";
+$admin = "791361592";
    function del($nomi){
    array_map('unlink', glob("$nomi"));
    }
